@@ -21,4 +21,5 @@ var x = +prompt('Значение 1')
 var y = +prompt('Значение 2')
 var z = +prompt('Значение 3')
 res = (x+y+z)/3
-alert(res)
+alert('Среднее арифметическое этих чисел ' + res)
+console.log('Среднее арифметическое этих чисел ' + res);
